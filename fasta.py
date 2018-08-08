@@ -1,11 +1,8 @@
 #!/usr/bin/env python3
 
-"""
-Zymergen Coding Challenge
-"""
 
 __author__ = "Sid Sachdev"
-__email__ = "sid.sachdev9@icloud.com"
+__email__ = "sid dot sachdev 9 at icloud dot com"
 
 import sys, getopt
 from Bio import SeqIO
